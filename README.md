@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  Hi 👋, I'm <a href="#">Your Name</a>
+  Hi 👋, I'm <a href="#">Sumanta</a>
 </h1>
 <h3 align="center">
   🚀 Coder | 🤖 Robotics Enthusiast | 🔧 Maker
@@ -10,7 +10,7 @@
 
 <!-- Animated Robot GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/bTrk5dMqxzcdK/giphy.gif" width="250" alt="Working Robot">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2N0bjliaHJjOXBiazRqdXFia2E1ejRzYTA5Y2E5OXJ0NDdmcmdmZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="250" alt="Working Robot">
 </p>
 
 ---
